@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+   
+</head>
+<body>
+    <div id="div1">我是一个div元素</div>
+</body>
+</html>
+
+<script>
+    var div1 = document.getElementById("div1");
+    var newAttribute = document.createAttribute("Attribute1");
+    newAttribute.value = "Attribute1Value";
+    div1.setAttributeNode(newAttribute);
+    console.log(div1.getAttribute("Attribute1"));
+</script>
