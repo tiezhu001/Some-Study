@@ -1,0 +1,11 @@
+F:\零碎学习\LINQ\LINQ To Object\obj\Debug\netcoreapp3.0\LINQ To Object.csprojAssemblyReference.cache
+F:\零碎学习\LINQ\LINQ To Object\obj\Debug\netcoreapp3.0\LINQ To Object.AssemblyInfoInputs.cache
+F:\零碎学习\LINQ\LINQ To Object\obj\Debug\netcoreapp3.0\LINQ To Object.AssemblyInfo.cs
+F:\零碎学习\LINQ\LINQ To Object\bin\Debug\netcoreapp3.0\LINQ To Object.exe
+F:\零碎学习\LINQ\LINQ To Object\bin\Debug\netcoreapp3.0\LINQ To Object.deps.json
+F:\零碎学习\LINQ\LINQ To Object\bin\Debug\netcoreapp3.0\LINQ To Object.runtimeconfig.json
+F:\零碎学习\LINQ\LINQ To Object\bin\Debug\netcoreapp3.0\LINQ To Object.runtimeconfig.dev.json
+F:\零碎学习\LINQ\LINQ To Object\bin\Debug\netcoreapp3.0\LINQ To Object.dll
+F:\零碎学习\LINQ\LINQ To Object\bin\Debug\netcoreapp3.0\LINQ To Object.pdb
+F:\零碎学习\LINQ\LINQ To Object\obj\Debug\netcoreapp3.0\LINQ To Object.dll
+F:\零碎学习\LINQ\LINQ To Object\obj\Debug\netcoreapp3.0\LINQ To Object.pdb

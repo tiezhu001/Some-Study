@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "LINQ To Object/1.0.0": {
+        "runtime": {
+          "LINQ To Object.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LINQ To Object/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
