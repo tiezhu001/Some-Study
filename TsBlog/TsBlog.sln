@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1145
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.Libraries", "1.Libraries", "{F468B6AD-B3C2-48FD-A558-A67341FF5E23}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.Presentation", "2.Presentation", "{E6073764-8D15-467E-A551-CA9D39780906}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TsBlog.Domain", "src\Libraries\TsBlog.Domain\TsBlog.Domain.csproj", "{5854B278-47A0-4B66-B586-2EFA3ABF1820}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TsBlog.Repositories", "src\Libraries\TsBlog.Repositories\TsBlog.Repositories.csproj", "{62DE26D5-11A2-44B0-ABCE-F835AB46A415}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TsBlog.Frontend", "src\Presentation\TsBlog.Frontend\TsBlog.Frontend.csproj", "{8FFE41A9-48AC-4551-9C48-3F1465170B90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TsBlog.Services", "src\Libraries\TsBlog.Services\TsBlog.Services.csproj", "{8D4DA7A1-8F9D-4F31-8F06-29DC9BF4486C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TsBlog.AutoMappingConfig", "src\Libraries\TsBlog.AutoMappingConfig\TsBlog.AutoMappingConfig.csproj", "{37816A15-F12E-4583-B239-8CBCF17DCE3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5854B278-47A0-4B66-B586-2EFA3ABF1820}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5854B278-47A0-4B66-B586-2EFA3ABF1820}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5854B278-47A0-4B66-B586-2EFA3ABF1820}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5854B278-47A0-4B66-B586-2EFA3ABF1820}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62DE26D5-11A2-44B0-ABCE-F835AB46A415}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62DE26D5-11A2-44B0-ABCE-F835AB46A415}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62DE26D5-11A2-44B0-ABCE-F835AB46A415}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62DE26D5-11A2-44B0-ABCE-F835AB46A415}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FFE41A9-48AC-4551-9C48-3F1465170B90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FFE41A9-48AC-4551-9C48-3F1465170B90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FFE41A9-48AC-4551-9C48-3F1465170B90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FFE41A9-48AC-4551-9C48-3F1465170B90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D4DA7A1-8F9D-4F31-8F06-29DC9BF4486C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D4DA7A1-8F9D-4F31-8F06-29DC9BF4486C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D4DA7A1-8F9D-4F31-8F06-29DC9BF4486C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D4DA7A1-8F9D-4F31-8F06-29DC9BF4486C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37816A15-F12E-4583-B239-8CBCF17DCE3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37816A15-F12E-4583-B239-8CBCF17DCE3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37816A15-F12E-4583-B239-8CBCF17DCE3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37816A15-F12E-4583-B239-8CBCF17DCE3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5854B278-47A0-4B66-B586-2EFA3ABF1820} = {F468B6AD-B3C2-48FD-A558-A67341FF5E23}
+		{62DE26D5-11A2-44B0-ABCE-F835AB46A415} = {F468B6AD-B3C2-48FD-A558-A67341FF5E23}
+		{8FFE41A9-48AC-4551-9C48-3F1465170B90} = {E6073764-8D15-467E-A551-CA9D39780906}
+		{8D4DA7A1-8F9D-4F31-8F06-29DC9BF4486C} = {F468B6AD-B3C2-48FD-A558-A67341FF5E23}
+		{37816A15-F12E-4583-B239-8CBCF17DCE3D} = {F468B6AD-B3C2-48FD-A558-A67341FF5E23}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1808A7A5-A3CA-43D3-BB82-FDF687521F96}
+	EndGlobalSection
+EndGlobal
